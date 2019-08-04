@@ -12,6 +12,6 @@ Used modules:
 If you have any question - send me message :)
 
 # Example video
-https://vimeo.com/user93323466/review/308714284/51bb27273b 
+https://vimeo.com/308714284
 
 Pozdro 600
